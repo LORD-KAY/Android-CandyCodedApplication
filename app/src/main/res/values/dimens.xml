@@ -2,4 +2,6 @@
 <resources>
     <dimen name="title_size">24sp</dimen>
     <dimen name="activity_padding">16dp</dimen>
+    <dimen name="dimen_min">0dp</dimen>
+    <dimen name="address_title">16dp</dimen>
 </resources>
