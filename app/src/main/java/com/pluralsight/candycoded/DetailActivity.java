@@ -11,7 +11,6 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
-
 import com.pluralsight.candycoded.DB.CandyContract;
 import com.pluralsight.candycoded.DB.CandyContract.CandyEntry;
 import com.pluralsight.candycoded.DB.CandyDbHelper;
